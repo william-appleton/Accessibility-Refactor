@@ -21,7 +21,7 @@ header {
 }
 
 
-/* The following two set properties for brand name logo with inline "seo" a different color */
+/* Following two set properties for brand name logo with inline "seo" as a different color */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -65,7 +65,7 @@ header nav ul li a {
 }
 
 
-/*Sets font for paragrpah text*/
+/*Sets font for all paragrpah text*/
 p {
     font-size: 16px;
 }
@@ -79,7 +79,7 @@ main {
 }
 
 
-/*The following three format main section apprerances*/
+/*Following three format main section apprerances*/
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,8 +111,8 @@ main img {
 }
 
 
-
-.benefits {
+/*Formats aside layout*/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -123,53 +123,24 @@ main img {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+
+/*Following three format aside section appearances*/
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 
 .footer {
