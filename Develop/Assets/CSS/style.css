@@ -30,7 +30,7 @@ header h1 .seo {
 }
 
 
-/* The following three set properties for horizantally shown links in nav bar */
+/* The following four set properties for horizantally shown links in nav bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,24 +48,25 @@ header nav ul li {
     margin-left: 25px;
 }
 
-
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+
+/*Formats figure below header*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    object-fit: cover;
 }
 
 p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
+
 
 .float-left {
     float: left;
