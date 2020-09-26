@@ -5,7 +5,7 @@ This project focused on improving the accessibility of an exsisting web page. Tw
 
 In addition, several maintenance tasks were undertaken. The CSS code was condensed to elimate redundant code, and comments were added to help future work on the file. Additionally, links in the html file were fixed, the website title was changed from a generic one to a site specific one, and the header tags were put in sequential order. 
 
-The live website can be found [here] (https://william-appleton.github.io/hw1/)
+The live website can be found: https://william-appleton.github.io/hw1/
 
 
 The completed page looks identical to how it did before refactoring, however the quality of the code has been greatly improved and the site is more accesible now:
