@@ -10,4 +10,4 @@ The live website can be found [here] (https://william-appleton.github.io/hw1/)
 
 The completed page looks identical to how it did before refactoring, however the quality of the code has been greatly improved and the site is more accesible now:
 
-![Image of Website] (./assets/images/Finished website image)
+![Image of Website](./assets/images/Finished website image.png)
