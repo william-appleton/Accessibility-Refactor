@@ -1,5 +1,4 @@
-# hw1
-## Homework Week 1
+# Accessibility Refactor
 
 This project focused on improving the accessibility of an exsisting web page. Two main tasks were undertaken in service of this. First, all generic 'div' tags were replaced with semantic html tags that are more descriptive of the content of the page. Second, alternate attributes were provided for all images so that screen readers can provide information of what the images are about. 
 
